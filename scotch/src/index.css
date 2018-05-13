@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.leftnav{
+  margin-top:20px;
+  height:500px;
+ }
+ .link{
+   padding:20px;
+   color:rgb(0, 17, 255);
+   background-color: rgb(217, 255, 0) !important;
+   border:1px solid blue ;
+ }
+ .link:hover{
+   background-color: bisque;
+   color:red;
+ }
+ 
+ .header{
+   text-align:center;
+   background-color: rgb(227, 205, 255);
+   margin-top:10px;
+   margin-bottom:20px;
+ }
+
+ .footer{
+  margin-top:20px;
+  color:red;
+  background-color: rgb(231, 226, 226);
+}

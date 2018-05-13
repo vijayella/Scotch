@@ -1,0 +1,21 @@
+
+.layout{
+    background-color: rgb(197, 255, 182);
+    margin-top:20px;
+}
+.text{
+    margin-left:10px;
+}
+.content{
+    padding-left: 20px !important;
+    margin-top:20px; 
+    padding-right:20px;
+}
+
+.subcontent{
+    margin-right:10px;
+    border:1px solid grey;
+    padding :5px;
+    overflow-wrap:break-word
+    
+}
